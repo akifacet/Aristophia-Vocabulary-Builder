@@ -1,23 +1,4 @@
 # Aristophia - Vocabulary Builder
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="40" height="40" />
-  
-  <h1>🏛️ Aristophia - Vocabulary Builder</h1>
-  
-  <p><b>2000+ Academic English Words • Offline Support • Text-to-Speech</b></p>
-
-  <br>
-
-  <a href="https://aristophia.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_UYGULAMAYA_GİT_(LIVE_APP)_-_aristophia.com-0ea5e9?style=for-the-badge&logoColor=white&color=0ea5e9&labelColor=2316171A" alt="Aristophia Live Link" height="50">
-  </a>
-  
-  <br><br>
-</div>
-
----
 
 **Aristophia** is a high-performance, single-page (SPA) vocabulary learning application optimized for academic exams like TOEFL and IELTS. It provides reliable pronunciations, categorized definitions, and example sentences for over 2000 highly-probable English words, designed with an offline-first approach.
 
